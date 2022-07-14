@@ -1,0 +1,79 @@
+#fast{
+  background-image: url(photo/donation3.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-position: center;
+ 
+ 
+}
+#one{
+   
+    color:  whitesmoke;
+    font-size: 300%;
+    margin-top: 0%;
+    padding-left: 8%;
+    padding-top: 7%;
+}
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    color: aliceblue;
+    font-size: 110%;
+    padding: 10px 15px;
+    border-radius: 12%;
+
+}
+.secend{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.you{
+    font-size: 150%;
+    padding: 10px 20px ;
+
+}
+.text{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 150%;
+}
+.main{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.me{
+ box-shadow: 10px 10px 40px gray;
+ margin: 8px 13px;
+ padding: 30px 15px;
+ border-radius: 10%;
+ background-color: rosybrown;
+
+}
+.me-new{
+    margin-top: 4%;
+margin-left: 2%;
+margin-right: 5%;
+ clip-path: circle();
+}
+.me-one{
+    box-shadow: 10px 10px 40px gray;
+ margin: 8px 13px;
+ padding: 30px 15px;
+ border-radius: 10%;
+}
+
+#black{
+    background-color: black;
+    padding-bottom: 40px;
+}
+.color{
+    color: tomato;
+}
+.text p{
+    color:  whitesmoke;
+  
+}
